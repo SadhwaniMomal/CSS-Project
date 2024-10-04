@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+    text-align: center;
+}
+.main-buttons {
+    display: flex;
+    justify-content: center;
+   
+}
+.main-buttons button{
+    padding: 10px;
+    margin-right: 15px;
+   border: none;
+   background-color: goldenrod;
+   border-radius: 5px;
+   cursor: pointer;
+   a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+   }
+}
+section h3{
+    color: purple;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid salmon;
+}
